@@ -1,0 +1,21 @@
+# Environment variables (Never commit secret tokens!)
+.env
+
+# Python Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs & Local Data
+*.log
+economy.json
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
